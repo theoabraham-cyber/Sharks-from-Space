@@ -1,6 +1,6 @@
 # SharkSentinel AI
 
-A web app to predict shark foraging hotspots using NASA satellite data. Features iterative machine learning for model updates from tag data. Built as a hackathon project for NASA Space Apps or similar.
+A web app to predict shark foraging hotspots using NASA satellite data. Features iterative machine learning for model updates from tag data. Built as a hackathon project for NASA Space Apps.
 
 ## Features
 - Global (simulated) maps of shark habitats and foraging intensity.
